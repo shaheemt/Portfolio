@@ -31,7 +31,7 @@ function Header() {
                 </div>
                  <div className="col-6">
                  <div className='image-container'>
-                    <img src="/image/photo.jpg" alt="" className="image"/>
+                    <img src="./image/photo.jpg" alt="" className="image"/>
                 </div> 
                 </div>  
                  

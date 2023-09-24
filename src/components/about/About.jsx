@@ -6,7 +6,7 @@ import Typewriter from "typewriter-effect"
 const back = "./image/back.png"
 const mern = './image/mern.png'
 const back2 = "./image/back.jpg"
-const frond = "../image/frond.jpg"
+const frond = "./image/frond.jpg"
 
 function About() {
     const image = [back,mern,back2,frond]
